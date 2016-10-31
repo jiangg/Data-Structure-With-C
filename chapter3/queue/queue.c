@@ -1,4 +1,4 @@
-#include "queue.h"
+ï»¿#include "queue.h"
 #include"fatal.h"
 #include<stdlib.h>
 
@@ -89,7 +89,7 @@ void deQueue(Queue Q)
 	else
 	{
 		Q->size--;
-		Q->front = Succ(Q->front, Q);//---------------------------------------------- ´ýÐø
+		Q->front = Succ(Q->front, Q);//---------------------------------------------- å¾…ç»­
 	}
 }
 

@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #ifndef Fata_H
 #define Fata_H
 #include<stdio.h>
